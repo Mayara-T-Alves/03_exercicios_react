@@ -1,4 +1,4 @@
 ADS noite - PDM
-    Amanda Santos Silva
-    Mayara Teshima Alves
+    Amanda Santos Silva,
+    Mayara Teshima Alves,
     Paolla Ferreira Mendes
