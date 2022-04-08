@@ -1,0 +1,16 @@
+.medico_conteiner{
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    
+}
+
+.medico_foto{
+    width: 90%;
+    height: 15vw; 
+}
+
+.medico_name{
+}
